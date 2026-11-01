@@ -1,0 +1,10 @@
+# Nunca subir el juego ni nada derivado de su contenido
+*.gba
+*.sav
+*.state
+*.zip
+*.7z
+*.rar
+build*/
+trabajo/
+original/
