@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/game-boy-advance/yggdra-union)**.
+
 Traducción al **español de España** de *Yggdra Union: We'll Never Fight Alone* (Game Boy Advance,
 2006), el juego de estrategia por turnos y cartas de Sting, segundo episodio de la serie
 Dept. Heaven, que nunca salió en español.
